@@ -1,0 +1,28 @@
+# NAME: Apple
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-11-18 02:11:25
+# HOST: 231
+# HOST-KEYWORD: 5
+# HOST-SUFFIX: 1546
+# HOST-WILDCARD: 8
+# IP-CIDR: 10
+# USER-AGENT: 7
+# TOTAL: 1807
+
+HOST-SUFFIX,cnki.net,Clash_paper
+HOST-SUFFIX,science.org,Clash_paper
+HOST-SUFFIX,nature.com,Clash_paper
+HOST-SUFFIX,wiley.com,Clash_paper
+HOST-SUFFIX,ieee.org,Clash_paper
+HOST-SUFFIX,acm.org,Clash_paper
+HOST-SUFFIX,acs.org,Clash_paper
+HOST-SUFFIX,imgtu.com,Clash_paper
+HOST-SUFFIX,optica.org,Clash_paper
+HOST-SUFFIX,dpdk.org,Clash_paper
+HOST-SUFFIX,freenom.com,Clash_paper
+HOST-SUFFIX,sciencedirect.com,Clash_paper
+HOST-SUFFIX,springer.com,Clash_paper
+HOST-SUFFIX,aps.org,Clash_paper
+HOST-SUFFIX,aeaweb.org,Clash_paper
+HOST-SUFFIX,pnas.org,Clash_paper
