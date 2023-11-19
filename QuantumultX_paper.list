@@ -5,19 +5,20 @@
 # HOST-SUFFIX: 16
 # TOTAL: 16
 
-HOST-SUFFIX,cnki.net,Clash_paper
-HOST-SUFFIX,science.org,Clash_paper
-HOST-SUFFIX,nature.com,Clash_paper
-HOST-SUFFIX,wiley.com,Clash_paper
-HOST-SUFFIX,ieee.org,Clash_paper
-HOST-SUFFIX,acm.org,Clash_paper
-HOST-SUFFIX,acs.org,Clash_paper
-HOST-SUFFIX,imgtu.com,Clash_paper
-HOST-SUFFIX,optica.org,Clash_paper
-HOST-SUFFIX,dpdk.org,Clash_paper
-HOST-SUFFIX,freenom.com,Clash_paper
-HOST-SUFFIX,sciencedirect.com,Clash_paper
-HOST-SUFFIX,springer.com,Clash_paper
-HOST-SUFFIX,aps.org,Clash_paper
-HOST-SUFFIX,aeaweb.org,Clash_paper
-HOST-SUFFIX,pnas.org,Clash_paper
+HOST-SUFFIX,cnki.net,Paper
+HOST-SUFFIX,science.org,Paper
+HOST-SUFFIX,nature.com,Paper
+HOST-SUFFIX,wiley.com,Paper
+HOST-SUFFIX,ieee.org,Paper
+HOST-SUFFIX,acm.org,Paper
+HOST-SUFFIX,acs.org,Paper
+HOST-SUFFIX,imgtu.com,Paper
+HOST-SUFFIX,optica.org,Paper
+HOST-SUFFIX,dpdk.org,Paper
+HOST-SUFFIX,freenom.com,Paper
+HOST-SUFFIX,sciencedirect.com,Paper
+HOST-SUFFIX,springer.com,Paper
+HOST-SUFFIX,aps.org,Paper
+HOST-SUFFIX,aeaweb.org,Paper
+HOST-SUFFIX,pnas.org,Paper
+
