@@ -19,4 +19,7 @@ payload:
   - DOMAIN-SUFFIX,elsevier.com
   - DOMAIN-SUFFIX,sagepub.com
   - DOMAIN-SUFFIX,tandfonline.com
-  
+  - DOMAIN-SUFFIX,siam.org
+  - DOMAIN-SUFFIX,aip.org
+  - DOMAIN-KEYWORD,ebsco
+  - DOMAIN-KEYWORD,clarivate
