@@ -23,3 +23,4 @@ payload:
   - DOMAIN-SUFFIX,aip.org
   - DOMAIN-KEYWORD,ebsco
   - DOMAIN-KEYWORD,clarivate
+  - DOMAIN-SUFFIX,emerald.com
