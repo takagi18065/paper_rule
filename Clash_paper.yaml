@@ -24,3 +24,4 @@ payload:
   - DOMAIN-KEYWORD,ebsco
   - DOMAIN-KEYWORD,clarivate
   - DOMAIN-SUFFIX,emerald.com
+  - DOMAIN-SUFFIX,europepmc.org
