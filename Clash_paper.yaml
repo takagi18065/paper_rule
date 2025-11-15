@@ -25,3 +25,5 @@ payload:
   - DOMAIN-KEYWORD,clarivate
   - DOMAIN-SUFFIX,emerald.com
   - DOMAIN-SUFFIX,europepmc.org
+  - DOMAIN-SUFFIX,dpi-proceedings.com
+  
